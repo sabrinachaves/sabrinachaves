@@ -1,11 +1,22 @@
-### Olá! Eu sou a Sabrina 🌻
+## Olá, eu sou a Sabrina!
 
-Tenho 26 anos e moro em Belo Horizonte.<br>
-🖥️ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, Engenheira Mecânica pela Unifei e Técnica em Eletrônica pelo Cefet-Mg.<br>
-📈 Atualmente sou Analista de Dados na Creditas!<br>
+🌻 26 anos <br>
+📈 Analista de Dados na Creditas <br>
+🖥️ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas <br>
+⚙️ Engenheira Mecânica - Unifei <br>
+🚥 Técnica em Eletrônica - Cefet-Mg <br>
 
-Nas horas vagas gosto de ler, brincar com a minha cachorrinha Malu, praticar yoga, jogar Clash Royale, PubG, jogos de cartas e de tabuleiro com a família e amigos! 
-
-
+<div align="center">
+  <a href="https://github.com/sabrinachaves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinachaves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinachaves&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sabrina-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 
