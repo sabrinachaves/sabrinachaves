@@ -4,7 +4,6 @@
 📈 Analista de Dados na Creditas <br>
 🖥️ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas <br>
 ⚙️ Engenheira Mecânica - Unifei <br>
-🚥 Técnica em Eletrônica - Cefet-Mg <br>
 
 <div align="center">
   <a href="https://github.com/sabrinachaves">
