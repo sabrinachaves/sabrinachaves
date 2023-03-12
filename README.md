@@ -1,7 +1,8 @@
 ## Olá, eu sou a Sabrina!
 
-🌻 26 anos <br>
-🖥️ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas <br>
+🌻 27 anos <br>
+🖥️ Engenheira de Software Jr na Catho
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas <br>
 ⚙️ Engenheira Mecânica - Unifei <br>
 
 <div align="center">
