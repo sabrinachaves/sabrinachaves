@@ -2,7 +2,7 @@
 
 🌻 28 anos <br>
 🖥️ Engenheira de Software Jr na Catho <br>
-🖥️ Análise e Desenvolvimento de Sistemas na PUC Minas <br>
+🖥️ Análise e Desenvolvimento de Sistemas - Puc Minas <br>
 ⚙️ Engenheira Mecânica - Unifei <br>
 
 Perfil profissional: https://github.com/sabrinachs
