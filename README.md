@@ -2,7 +2,7 @@
 
 🖥️ Engenheira de Software Jr na Catho <br>
 🖥️ Análise e Desenvolvimento de Sistemas - Puc Minas <br>
-⚙️ Engenheira Mecânica - Unifei <br>
+⚙️ Engenharia Mecânica - Unifei <br>
 
 Perfil utilizado no trabalho: https://github.com/sabrinachs
 
