@@ -5,7 +5,7 @@
 🖥️ Análise e Desenvolvimento de Sistemas - Puc Minas <br>
 ⚙️ Engenheira Mecânica - Unifei <br>
 
-Perfil profissional: https://github.com/sabrinachs
+Perfil utilizado no trabalho: https://github.com/sabrinachs
 
 <div align="center">
   <a href="https://github.com/sabrinachaves">
