@@ -1,10 +1,8 @@
 ## Olá, eu sou a Sabrina!
 
-🖥️ Engenheira de Software Jr na Catho <br>
+🖥️ Engenheira de Software Jr na Creditas <br>
 🖥️ Análise e Desenvolvimento de Sistemas - Puc Minas <br>
 ⚙️ Engenharia Mecânica - Unifei <br>
-
-Perfil utilizado no trabalho: https://github.com/sabrinachs
 
 <div align="center">
   <a href="https://github.com/sabrinachaves">
